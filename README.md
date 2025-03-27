@@ -101,7 +101,7 @@ VoteVerify 2025 digitizes the voter verification process by:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/voteverify-2025.git
+   git clone https://github.com/Bhuwinrag/voteverify-2025.git
    cd voteverify-2025
 
    Install dependenies:

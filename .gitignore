@@ -43,3 +43,4 @@ app-example
 # Firebase configuration (sensitive credentials)
 firebaseConfig.ts
 
+google-services.json

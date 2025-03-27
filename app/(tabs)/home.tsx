@@ -56,7 +56,6 @@ export default function HomeScreen() {
   };
 
   const handleProceed = () => {
-    // Close the modal when "Proceed" is pressed
     setModalVisible(false);
   };
 

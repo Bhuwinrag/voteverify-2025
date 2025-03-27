@@ -20,7 +20,6 @@ export default function VoterLayout() {
         tabBarLabelStyle: { fontSize: 12, fontWeight: '600' },
         tabBarIcon: ({ color, size }) => {
           let iconName = 'home-outline';
-          // MATCH the exact route names: 'Home', 'Verify', etc.
           if (route.name === 'Home') iconName = 'home-outline';
           else if (route.name === 'Verify') iconName = 'camera-outline';
           else if (route.name === 'Queue') iconName = 'list-outline';

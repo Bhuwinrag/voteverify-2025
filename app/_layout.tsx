@@ -5,10 +5,10 @@ export default function Layout() {
   return (
     <Stack
       screenOptions={{
-        headerShown: false, // Hides header for all screens
+        headerShown: false, 
       }}
     >
-      {/* Define all screens under this Stack layout */}
+      
       <Stack.Screen name="LoginSelection" />
       <Stack.Screen name="admin-login" />
       <Stack.Screen name="voter-login" />
